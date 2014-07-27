@@ -1,4 +1,4 @@
-
+library(data.table)
 
 ## Function to return the file name of the data set
 ## ASSUME THAT THE UCI HAR DATA SET FOLDER IS IN THE CURRENT DIRECTORY
